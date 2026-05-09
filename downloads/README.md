@@ -4,6 +4,7 @@
 - [apk](./apk)
 - [hls-720p-d37c8](./hls-720p-d37c8)
 - [win64](./win64)
+- [win64_portable](./win64_portable)
 
 ---
 
