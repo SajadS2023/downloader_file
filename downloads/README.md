@@ -1,10 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [100MB](./100MB)
-- [apk](./apk)
-- [hls-720p-d37c8](./hls-720p-d37c8)
-- [win64](./win64)
-- [win64_portable](./win64_portable)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
